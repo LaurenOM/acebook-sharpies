@@ -1,7 +1,6 @@
 using NUnit.Framework;
 
-namespace Tests
-{
+namespace Acebook.UnitTests.Home {
     public class Tests
     {
         [SetUp]
